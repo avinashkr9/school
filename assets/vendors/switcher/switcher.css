@@ -43,6 +43,7 @@
     position: absolute;
     left: -40px;
     top: 0;
+    display: none;
 }
 .styleswitcher-right .switch-btn { 
 	box-shadow:-3px 1px 5px rgba(0, 0, 0, 0.1); 
