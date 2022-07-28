@@ -58,7 +58,7 @@ $(function(){
     // Color changer
     jQuery(".skin-1").on('click',function(){
         jQuery(".skin").attr("href", "assets/css/color/color-1.css");
-		jQuery(".ttr-sidebar-logo img").attr("src", "assets/images/logo.png");
+		jQuery(".ttr-sidebar-logo img").attr("src", "assets/images/isano.jpeg");
         return false;
     });
     jQuery(".skin-2").on('click',function(){

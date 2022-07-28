@@ -1025,7 +1025,7 @@
 	color:var(--primary);
 }
 .header-transparent .navbar-toggler span{
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 .header-transparent .is-fixed .menu-bar{
 	position:fixed;
