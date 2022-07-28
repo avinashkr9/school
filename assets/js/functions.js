@@ -516,3 +516,10 @@ Theme Version:	1.0.0
 	jQuery(window).on('resize',function(){ThemeBuilder.changeTheScreen();});
 	
 })(jQuery);
+
+
+// load footer
+$(function(){
+	//   $("#header").load("header.html"); 
+	  $("#footer").load("footer.html"); 
+	});
