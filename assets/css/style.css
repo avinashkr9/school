@@ -214,6 +214,9 @@
 .topbar-left ul li i{
 	margin-right:5px;	
 }
+.search-btn{
+	display: none !important;
+}
 .search-btn:after,
 .topbar-left ul li:after,
 .topbar-right ul li:after{
@@ -1801,9 +1804,12 @@ footer .widget_services ul li:hover {
 	display:block;
 	font-weight: 400;
 }
+.footer_widget ul li a:hover{
+	color: #fec12b !important;
+}
 /* Subscribe Form */
 .subscribe-form input{
-	background-color:rgba(0,0,0,0.2);
+	background-color:rgba(255,255,255,0.2);
 	border:0;
 	height:45px;
 	padding:10px 20px;
