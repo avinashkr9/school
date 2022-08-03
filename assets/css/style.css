@@ -3380,3 +3380,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#391800', end
 .tp-resizeme{
 	margin-top: 50px;
 }
+
+.color-theme{
+	color: #194479;
+}
